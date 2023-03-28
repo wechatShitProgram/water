@@ -1,0 +1,4 @@
+-- this file cannot be executed directly.
+for i=1,15 do
+    print("VQVudm")
+end
